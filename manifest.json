@@ -1,0 +1,22 @@
+
+{
+  "name": "Zenith AI Task Manager",
+  "short_name": "Zenith",
+  "description": "Smart AI-powered task management with offline support.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=Zenith&backgroundColor=4f46e5",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=Zenith&backgroundColor=4f46e5",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

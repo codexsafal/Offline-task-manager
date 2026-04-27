@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Task Manager",
+  "description": "A sophisticated, high-performance task management application featuring a glassmorphic Kanban board, full drag-and-drop reordering, and native offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
